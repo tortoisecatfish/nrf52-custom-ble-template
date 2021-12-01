@@ -1,0 +1,1 @@
+pca10040/s132/armgcc/ble_app_template_gcc_nrf52.ld
